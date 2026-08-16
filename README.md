@@ -126,11 +126,12 @@ I'm interested in connecting with professionals working in:
 
 Data Science • Data Analytics • Business Intelligence • Artificial Intelligence • Technology • Analytics Leadership
 
-LinkedIn: [Add LinkedIn URL]
+**LinkedIn:** Coming Soon
 
-Portfolio: [Coming Soon]
+**Portfolio:** Coming Soon
 
-Email: [Professional Email]
+
+
 
 🤝 Let's Build With Data
 
